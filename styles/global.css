@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Pacifico";
+  src: url('../src/fonts/Pacifico-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.corousel-image {
+  object-fit: cover;
+  object-position: 0 80%;
+  height: 400px;
+}
+
+.title-font {
+  font-family: 'Pacifico', cursive;
+  font-weight: 400;
+}
+
+.special-color {
+  color: darkred;
+}
+
+.special-background-color {
+  background-color: darkred;
+  color: white;
+}
+
+.special-border-color {
+  border-color: darkred
+}
+
+.card-image-position {
+  object-fit: cover;
+  height: 200px;
+}
